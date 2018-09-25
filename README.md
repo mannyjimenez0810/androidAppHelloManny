@@ -1,7 +1,7 @@
 ## Emmanuel Jimenez Hello World android app
 
 ### App Description
-`TODO://` This app allows the user to change the message,change the text color, and change the background color. 
+ This app allows the user to change the message,change the text color, and change the background color. 
 
 ### App Walk-though
 <img src="https://imgur.com/a/WuIYDS5" width=200><br>
